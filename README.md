@@ -1,7 +1,9 @@
 # Food Festival
 Progressive Web Application for foodies!
 
-![Food Festival](./assets/images/screenshot.png)
+Deployed Application: https://josh2100.github.io/food-festival/ 
+
+![Food Festival](./assets/img/screenshot.png)
 
 ## Table of Contents
 
