@@ -21,7 +21,7 @@ Clone the project. Run `npm i` in your Command Line Interface. Start your server
 
 ## Usage
 
-usage
+The site features a schedule that can be viewed, a tickets screen that displays a modal, and a homepage with an image carousel. Click the icon on the right side of the URL box to download the app to your device. 
 
 ## License
 
@@ -35,7 +35,7 @@ Fork the project and create a pull request. Let me know how you think you can co
 
 ## Technologies
 
-Created with Node.js, Express.js, MongoDB, Mongoose, and Insomnia.
+Created with Node.js, webpack, bootstrap, jQuery, and popper.js. 
 
 ## Credits
 
